@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/bmp.png</file>
+        <file>image/close.png</file>
+        <file>image/help.png</file>
+        <file>image/last.png</file>
+        <file>image/next.png</file>
+        <file>image/pause.png</file>
+        <file>image/pifu.png</file>
+        <file>image/voice.png</file>
+        <file>image/xunhuan.png</file>
+    </qresource>
+</RCC>
